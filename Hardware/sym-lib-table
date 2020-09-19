@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name Audio_Custom)(type Legacy)(uri ${KIPRJMOD}/Audio_Custom.lib)(options "")(descr ""))
+  (lib (name Fiber_Optic_custom)(type Legacy)(uri ${KIPRJMOD}/Fiber_Optic_custom.lib)(options "")(descr ""))
+  (lib (name Amplifier_Audio_custom)(type Legacy)(uri ${KIPRJMOD}/Amplifier_Audio_custom.lib)(options "")(descr ""))
+)

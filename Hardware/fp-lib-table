@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name OptoDevice_custom)(type KiCad)(uri ${KIPRJMOD}/OptoDevice_custom.pretty)(options "")(descr ""))
+  (lib (name Package_SO_custom)(type KiCad)(uri ${KIPRJMOD}/Package_SO_custom.pretty)(options "")(descr ""))
+  (lib (name Connector_Coaxial_custom)(type KiCad)(uri ${KIPRJMOD}/Connector_Coaxial_custom.pretty)(options "")(descr ""))
+)

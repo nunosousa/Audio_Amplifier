@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PLR135_T10
+D Photolink-Fiber Optic Receiver
+K fiber optic receiver
+F https://www.everlight.com/file/ProductFile/PLR135-T10.pdf
+$ENDCMP
+#
+#End Doc Library

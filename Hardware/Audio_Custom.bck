@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DIR9001
+D DIR9001 96-kHz, 24-Bit Digital Audio Interface Receiver
+F https://www.ti.com/lit/ds/symlink/dir9001.pdf
+$ENDCMP
+#
+$CMP DIT4096
+D 96kHz Digital Audio Transmitter
+F https://www.ti.com/lit/ds/symlink/dit4096.pdf
+$ENDCMP
+#
+$CMP LM1972
+D Micro-Pot 2-Channel 78 dB Audio Attenuator with Mute
+F https://www.ti.com/lit/ds/symlink/lm1972.pdf
+$ENDCMP
+#
+$CMP PGA2311
+D Stereo Audio Volume Control
+F https://www.ti.com/lit/ds/symlink/pga2311.pdf
+$ENDCMP
+#
+#End Doc Library
